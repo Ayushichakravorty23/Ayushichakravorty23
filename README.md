@@ -1,8 +1,12 @@
-Hi, I'm a data analytics learner with hands-on experience in data cleaning, analysis, and visualization.
+## Hi, I'm Ayushi Chakravorty 👋  
+### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-I am a certified Data Analytics professional with hands-on experience in:
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Data visualization and dashboarding
+Certified Data Analytics professional with hands-on experience in data cleaning, exploratory data analysis, and visualization.  
+Skilled in transforming raw data into actionable insights using Python, SQL, Excel, and Power BI to support data-driven decision-making.
 
-I enjoy turning raw data into meaningful insights to support data-driven decisions📫
+📍 Open to Data Analyst / Junior Data Analyst opportunities
+🐍 Python | Pandas | NumPy
+📊 Matplotlib | Seaborn | Power BI
+🗄️ SQL (MySQL)
+📈 MS Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+📐 Descriptive Statistics | EDA
