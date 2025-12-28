@@ -5,6 +5,7 @@ Certified Data Analytics professional with hands-on experience in data cleaning,
 Skilled in transforming raw data into actionable insights using Python, SQL, Excel, and Power BI to support data-driven decision-making.
 
 📍 Open to Data Analyst / Junior Data Analyst opportunities
+*******
 🐍 Python | Pandas | NumPy
 📊 Matplotlib | Seaborn | Power BI
 🗄️ SQL (MySQL)
