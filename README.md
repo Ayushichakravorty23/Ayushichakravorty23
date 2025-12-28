@@ -6,8 +6,8 @@ Skilled in transforming raw data into actionable insights using Python, SQL, Exc
 
 📍 Open to Data Analyst / Junior Data Analyst opportunities
 *******
-🐍 Python | Pandas | NumPy
-📊 Matplotlib | Seaborn | Power BI
-🗄️ SQL (MySQL)
-📈 MS Excel (Pivot Tables, VLOOKUP, Data Cleaning)
-📐 Descriptive Statistics | EDA
+*🐍 Python | Pandas | NumPy
+*📊 Matplotlib | Seaborn | Power BI
+*🗄️ SQL (MySQL)
+*📈 MS Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+*📐 Descriptive Statistics | EDA
